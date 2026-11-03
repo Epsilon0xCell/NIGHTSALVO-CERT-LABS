@@ -1,0 +1,13 @@
+cve,cvss,asset,exploit_available
+CVE-2026-1001,9.8,vpn-01,yes
+CVE-2026-1002,9.1,web-01,yes
+CVE-2026-1003,8.8,db-01,yes
+CVE-2026-1004,7.5,web-01,yes
+CVE-2026-1005,10.0,ws-114,no
+CVE-2026-1006,8.1,mail-01,yes
+CVE-2026-1007,7.0,app-02,no
+CVE-2026-1008,6.5,web-01,no
+CVE-2026-1009,5.4,db-01,yes
+CVE-2026-1010,9.4,app-02,no
+CVE-2026-1011,4.3,mail-01,yes
+CVE-2026-1012,3.7,vpn-01,no

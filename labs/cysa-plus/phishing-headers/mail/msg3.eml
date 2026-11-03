@@ -1,0 +1,12 @@
+From: IT Helpdesk <helpdesk@nightsalvo.com>
+To: gavin@nightsalvo.com
+Reply-To: helpdesk@nightsalvo.com
+Return-Path: <bounces@bulk-sender.example>
+Subject: Password expires today: reset now
+Date: Tue, 14 Oct 2026 10:17:08 +0000
+Authentication-Results: mx.nightsalvo.com; spf=fail smtp.mailfrom=nightsalvo.com (sender IP 198.51.100.77 is not authorized); dkim=none; dmarc=fail header.from=nightsalvo.com
+Received: from relay.bulk-sender.example (198.51.100.77) by mx.nightsalvo.com
+
+Your network password expires today. To avoid lockout, reset it
+immediately using the link in the company portal message that
+follows this one in your inbox.

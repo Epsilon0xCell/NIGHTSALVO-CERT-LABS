@@ -1,0 +1,2 @@
+root:$6$rounds=5000$saltsalt$9JZ7ExampleHashOnlyNotARealCredential:19600:0:99999:7:::
+flag: SALVO{suid_audit_shadow_bak_world_readable}

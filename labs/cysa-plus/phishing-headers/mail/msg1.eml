@@ -1,0 +1,12 @@
+From: NightSalvo Billing <billing@nightsalvo.com>
+To: gavin@nightsalvo.com
+Reply-To: billing@nightsalvo.com
+Return-Path: <billing@nightsalvo.com>
+Subject: Your October invoice is ready
+Date: Tue, 14 Oct 2026 09:02:11 +0000
+Authentication-Results: mx.nightsalvo.com; spf=pass smtp.mailfrom=nightsalvo.com; dkim=pass header.d=nightsalvo.com; dmarc=pass header.from=nightsalvo.com
+Received: from mail.nightsalvo.com (10.20.0.5) by mx.nightsalvo.com
+
+Your October invoice is available in the customer portal.
+Sign in the way you normally do to view it. No action is needed
+if you have already paid.

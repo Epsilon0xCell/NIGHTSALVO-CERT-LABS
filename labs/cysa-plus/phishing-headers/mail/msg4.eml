@@ -1,0 +1,12 @@
+From: NightSalvo Newsletter <news@nightsalvo.com>
+To: subscribers@nightsalvo.com
+Reply-To: news@nightsalvo.com
+Return-Path: <news@nightsalvo.com>
+Subject: October roundup: three new labs
+Date: Wed, 15 Oct 2026 08:00:00 +0000
+Authentication-Results: mx.nightsalvo.com; spf=pass smtp.mailfrom=nightsalvo.com; dkim=pass header.d=nightsalvo.com; dmarc=pass header.from=nightsalvo.com
+List-Unsubscribe: <https://nightsalvo.com/unsubscribe>
+Received: from mail.nightsalvo.com (10.20.0.5) by mx.nightsalvo.com
+
+This month we published three new training labs and a writeup
+on reading authentication logs. Read them on the site.

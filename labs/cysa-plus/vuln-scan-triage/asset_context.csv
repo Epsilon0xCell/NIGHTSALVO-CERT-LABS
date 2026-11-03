@@ -1,0 +1,7 @@
+asset,internet_facing,criticality
+web-01,yes,high
+db-01,no,high
+vpn-01,yes,high
+ws-114,no,low
+mail-01,yes,medium
+app-02,no,medium

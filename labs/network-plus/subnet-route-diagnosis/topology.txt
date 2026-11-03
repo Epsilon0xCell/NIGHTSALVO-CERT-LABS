@@ -1,0 +1,29 @@
+NIGHTSALVO OFFICE NETWORK, AS FOUND ON MONDAY MORNING
+Two sites joined by a point-to-point link. Four trouble tickets are
+open. The configurations below are the ground truth of what is typed
+into each device, not what the design document says.
+
+DESIGN
+  HQ LAN        192.168.10.0/24    gateway R1 at 192.168.10.1
+  Branch LAN    192.168.20.0/24    gateway R2 at 192.168.20.1
+  Server net    10.30.0.0/24       reached through R1
+  WAN link      R1 10.0.0.1/30  <->  R2 10.0.0.2/30
+
+AS CONFIGURED
+  WS-07   ip 192.168.10.130  mask 255.255.255.128  gateway 192.168.10.1
+          ticket: "cannot reach anything off this subnet, not even the gateway"
+  PRN-02  ip 192.168.20.45   mask 255.255.255.0    gateway 192.168.20.254
+          ticket: "prints locally, nothing remote ever reaches it"
+          note: nothing in the branch answers at 192.168.20.254
+  R2      static route: 10.30.0.0/24 via 10.0.0.3
+          ticket: "branch cannot reach the server net at all"
+  NEW-CABINET  planned subnet 192.168.10.128/25 for a training room
+          ticket: "address plan review flagged a conflict, nobody has
+          said exactly what it is"
+
+Answer with one fault code per device or plan, using exactly these
+codes: mask, gateway, route, overlap.
+  ws07=<code>
+  prn02=<code>
+  r2=<code>
+  new_cabinet=<code>

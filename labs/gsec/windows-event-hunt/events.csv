@@ -1,0 +1,54 @@
+TimeCreated,EventID,Account,SourceIP,Workstation,Message
+2026-10-12 08:13:00,4624,priya,192.168.4.24,WS-112,An account was successfully logged on.
+2026-10-12 08:33:00,4624,amara,192.168.4.52,WS-107,An account was successfully logged on.
+2026-10-12 08:42:00,4624,amara,192.168.4.24,WS-101,An account was successfully logged on.
+2026-10-12 08:52:00,4624,amara,192.168.4.56,WS-112,An account was successfully logged on.
+2026-10-12 08:58:00,4624,priya,192.168.4.45,WS-101,An account was successfully logged on.
+2026-10-12 09:02:00,4624,priya,192.168.4.28,WS-101,An account was successfully logged on.
+2026-10-12 09:14:00,4624,lena,192.168.4.56,WS-104,An account was successfully logged on.
+2026-10-12 09:26:00,4624,marcus,192.168.4.56,WS-104,An account was successfully logged on.
+2026-10-12 09:49:00,4624,priya,192.168.4.24,WS-107,An account was successfully logged on.
+2026-10-12 10:10:00,4624,amara,192.168.4.54,WS-104,An account was successfully logged on.
+2026-10-12 10:26:00,4624,tom.h,192.168.4.49,WS-112,An account was successfully logged on.
+2026-10-12 10:40:00,4634,tom.h,,WS-104,An account was logged off.
+2026-10-12 11:05:00,4624,priya,192.168.4.53,WS-101,An account was successfully logged on.
+2026-10-12 11:23:00,4624,tom.h,192.168.4.24,WS-112,An account was successfully logged on.
+2026-10-12 11:29:00,4624,marcus,192.168.4.41,WS-112,An account was successfully logged on.
+2026-10-12 11:36:00,4624,lena,192.168.4.24,WS-112,An account was successfully logged on.
+2026-10-12 11:41:00,4625,j.okafor,192.168.4.50,WS-104,An account failed to log on. Failure reason: unknown user name or bad password.
+2026-10-12 11:41:23,4625,j.okafor,192.168.4.50,WS-104,An account failed to log on. Failure reason: unknown user name or bad password.
+2026-10-12 11:41:46,4625,j.okafor,192.168.4.50,WS-104,An account failed to log on. Failure reason: unknown user name or bad password.
+2026-10-12 11:42:09,4625,j.okafor,192.168.4.50,WS-104,An account failed to log on. Failure reason: unknown user name or bad password.
+2026-10-12 11:42:32,4625,j.okafor,192.168.4.50,WS-104,An account failed to log on. Failure reason: unknown user name or bad password.
+2026-10-12 11:42:55,4625,j.okafor,192.168.4.50,WS-104,An account failed to log on. Failure reason: unknown user name or bad password.
+2026-10-12 11:43:18,4625,j.okafor,192.168.4.50,WS-104,An account failed to log on. Failure reason: unknown user name or bad password.
+2026-10-12 11:43:41,4625,j.okafor,192.168.4.50,WS-104,An account failed to log on. Failure reason: unknown user name or bad password.
+2026-10-12 11:44:04,4625,j.okafor,192.168.4.50,WS-104,An account failed to log on. Failure reason: unknown user name or bad password.
+2026-10-12 11:44:27,4625,j.okafor,192.168.4.50,WS-104,An account failed to log on. Failure reason: unknown user name or bad password.
+2026-10-12 11:44:50,4625,j.okafor,192.168.4.50,WS-104,An account failed to log on. Failure reason: unknown user name or bad password.
+2026-10-12 11:45:13,4625,j.okafor,192.168.4.50,WS-104,An account failed to log on. Failure reason: unknown user name or bad password.
+2026-10-12 11:45:36,4625,j.okafor,192.168.4.50,WS-104,An account failed to log on. Failure reason: unknown user name or bad password.
+2026-10-12 11:45:59,4625,j.okafor,192.168.4.50,WS-104,An account failed to log on. Failure reason: unknown user name or bad password.
+2026-10-12 11:46:22,4624,j.okafor,192.168.4.50,WS-104,An account was successfully logged on.
+2026-10-12 11:47:00,4720,temp.admin2,,WS-104,A user account was created. Creator account: j.okafor.
+2026-10-12 11:50:00,4732,temp.admin2,,WS-104,A member was added to a security-enabled global group. Group: Domain Admins. Added by: j.okafor.
+2026-10-12 11:56:00,4624,marcus,192.168.4.42,WS-107,An account was successfully logged on.
+2026-10-12 12:18:00,4624,lena,192.168.4.25,WS-112,An account was successfully logged on.
+2026-10-12 12:29:00,4624,lena,192.168.4.39,WS-101,An account was successfully logged on.
+2026-10-12 12:52:00,4624,marcus,192.168.4.44,WS-112,An account was successfully logged on.
+2026-10-12 13:16:00,4634,tom.h,,WS-101,An account was logged off.
+2026-10-12 13:30:00,4624,priya,192.168.4.33,WS-101,An account was successfully logged on.
+2026-10-12 13:42:00,4624,priya,192.168.4.51,WS-104,An account was successfully logged on.
+2026-10-12 13:47:00,4624,priya,192.168.4.37,WS-112,An account was successfully logged on.
+2026-10-12 13:54:00,4624,lena,192.168.4.42,WS-107,An account was successfully logged on.
+2026-10-12 14:18:00,4624,lena,192.168.4.31,WS-104,An account was successfully logged on.
+2026-10-12 14:25:00,4624,priya,192.168.4.57,WS-104,An account was successfully logged on.
+2026-10-12 14:33:00,4624,tom.h,192.168.4.46,WS-107,An account was successfully logged on.
+2026-10-12 14:53:00,4634,tom.h,,WS-107,An account was logged off.
+2026-10-12 15:18:00,4624,marcus,192.168.4.55,WS-101,An account was successfully logged on.
+2026-10-12 15:33:00,4624,lena,192.168.4.50,WS-112,An account was successfully logged on.
+2026-10-12 15:56:00,4624,lena,192.168.4.33,WS-101,An account was successfully logged on.
+2026-10-12 16:13:00,4624,priya,192.168.4.23,WS-101,An account was successfully logged on.
+2026-10-12 16:19:00,4624,amara,192.168.4.43,WS-104,An account was successfully logged on.
+2026-10-12 16:41:00,4634,amara,,WS-101,An account was logged off.
+2026-10-12 17:03:00,4624,lena,192.168.4.42,WS-104,An account was successfully logged on.
